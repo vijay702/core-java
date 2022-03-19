@@ -1,0 +1,9 @@
+package org.studyeasy.phone;
+
+public class oneplus5 {
+
+	public int processor () {
+		return 835;
+		
+	}
+}

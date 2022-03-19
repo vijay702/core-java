@@ -1,0 +1,12 @@
+package org.studyeasy;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		Person john = new Person();
+		System.out.println(john);
+		john.age = -10;
+		System.out.println(john);
+	}
+
+}

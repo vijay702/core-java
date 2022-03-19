@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;org.studyeasy.platform.Java.java&apos; to &apos;java.java&apos;&#x0D;&#x0A;- Original project: &apos;Packages&apos;&#x0D;&#x0A;- Original element: &apos;org.studyeasy.platform.Java.java&apos;&#x0D;&#x0A;- Renamed element: &apos;org.studyeasy.platform.java.java&apos;" description="Rename compilation unit &apos;Java.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;org.studyeasy.platform{Java.java" name="java.java" references="false" stamp="1631524004676" version="1.0"/>
+</session>

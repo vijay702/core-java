@@ -1,0 +1,23 @@
+package org.studyeasy.vechcles;
+
+import org.studyeasy.parent.vechicle;
+
+public class Bike extends vechicle {
+	private String handle;
+
+	public Bike() {
+		super();
+		this.handle ="short";
+	}
+
+	public Bike(String handle) {
+		super();
+		this.handle = handle;
+	}
+
+	public String getHandle() {
+		return handle;
+	}
+	
+	
+}

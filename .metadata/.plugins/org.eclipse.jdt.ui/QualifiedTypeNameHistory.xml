@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.studyeasy.testrun.teststatic"/>
+    <fullyQualifiedTypeName name="org.studyeasy.demo.Outer"/>
+    <fullyQualifiedTypeName name="org.studyeasy.blog.java"/>
+    <fullyQualifiedTypeName name="org.studyeasy.parent.A"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.awt.print.Book"/>
+    <fullyQualifiedTypeName name="com.multithreading.MultithreadingExample.book"/>
+    <fullyQualifiedTypeName name="com.multithreading.MultithreadingExample.Num"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

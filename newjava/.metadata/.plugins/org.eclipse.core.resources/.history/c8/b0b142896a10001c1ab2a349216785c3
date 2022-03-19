@@ -1,0 +1,10 @@
+package org.studyeasy.vechcles;
+
+import org.studyeasy.parent.vechicle;
+
+public class Truck extends vechicle {
+	public String steering;
+	public String musicSystem;
+	public String airConditioner;
+    public int Container ;
+}

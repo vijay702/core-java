@@ -1,0 +1,13 @@
+package firstpr;
+
+public class firstprogram {
+
+	public static void main(String[] args) {
+		// 
+	
+		int x = 1;
+		String y = "hello" + "world";
+		System.out.println(y);
+	}
+
+}

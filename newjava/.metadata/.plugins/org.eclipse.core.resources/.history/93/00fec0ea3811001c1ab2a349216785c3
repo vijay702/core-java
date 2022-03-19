@@ -1,0 +1,16 @@
+package org.studyeasy;
+
+import org.studyeasy.phone.oneplus5;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		
+		oneplus5 phone = new oneplus5();
+		int processor = phone.processor();
+		System.out.println(processor);
+		
+
+	}
+
+}

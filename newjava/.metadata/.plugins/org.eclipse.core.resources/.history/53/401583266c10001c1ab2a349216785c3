@@ -1,0 +1,12 @@
+package org.studyeasy1;
+
+import org.studyeasy.vechcles.Bike;
+
+public class demo {
+
+	public static void main(String[] args) {
+		
+	
+	}
+
+}

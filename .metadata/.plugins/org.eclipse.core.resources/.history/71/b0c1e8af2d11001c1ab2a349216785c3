@@ -1,0 +1,14 @@
+package org.studyeasy.phone;
+
+public class Samsungnote8 extends Phone  {
+	
+	public String model;
+	
+
+	public Samsungnote8(String Model) {
+		super(Model);
+		// TODO Auto-generated constructor stub
+	}
+	
+
+}

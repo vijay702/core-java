@@ -1,0 +1,9 @@
+package org.studyeasy.parent;
+
+public class vechicle {
+public String engine;
+public String wheels;
+public String seats;
+public String fuelTank;
+public String lights;
+}

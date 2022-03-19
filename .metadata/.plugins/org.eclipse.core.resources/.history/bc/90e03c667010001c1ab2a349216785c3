@@ -1,0 +1,34 @@
+package org.studyeasy.parent;
+
+public class vechicle {
+private String engine;
+private String wheels;
+private String seats;
+private int fuelTank;
+private String lights;
+public vechicle() {
+
+	this.engine = "petrol";
+	this.wheels = "4";
+	this.seats  = "4";
+	this.fuelTank=35;
+	this.lights = "LED";
+	
+}
+public vechicle(String engine, String wheels, String seats, int fuelTank, String lights) {
+	super();
+	this.engine = engine;
+	this.wheels = wheels;
+	this.seats = seats;
+	this.fuelTank = fuelTank;
+	this.lights = lights;
+}
+public String getLights() {
+	return lights;
+}
+public void setLights(String lights) {
+	this.lights = lights;
+}
+
+
+}

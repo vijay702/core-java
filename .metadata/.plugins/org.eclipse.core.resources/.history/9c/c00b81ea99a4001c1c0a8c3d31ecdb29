@@ -1,0 +1,56 @@
+package com.multithreading;
+
+
+
+
+class Book{
+	void updateDb(){
+		
+		for(int i =1;i<=5;i++) {
+			
+			System.out.println("Updating DataBase");
+		}
+	}
+}
+
+
+
+class Number {
+	
+	void print(){
+		
+		for(int i=1 ; i<=5;i++) {
+			System.out.println(i);
+			try {
+				Thread.sleep(8000);
+			} catch (InterruptedException e) {
+			
+				e.printStackTrace();
+			}
+		}
+	}
+}
+
+
+public class MultithreadingExample {
+	
+	
+
+	
+	
+
+	public static void main(String[] args) {
+		
+		Book book = new Book();
+		Number num = new Number();
+		
+		book.updateDb();
+		num.print();
+		
+		
+		
+		
+
+	}
+
+}

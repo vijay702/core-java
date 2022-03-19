@@ -1,0 +1,14 @@
+package org.studyeasy1;
+
+import org.studyeasy.phone.Phone;
+
+public class Hello1 {
+
+	public static void main(String[] args) {
+	
+		Phone phone = new Phone ("nokia 1100");
+		
+
+	}
+
+}

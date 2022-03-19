@@ -1,0 +1,13 @@
+package org.studyeasy.vechcles;
+
+import org.studyeasy.parent.vechicle;
+
+public class Car extends vechicle {
+	public String steering;
+	public String musicSystem;
+	public String airConditioner;
+	public String fridge;
+	public String entertainmentSystem;
+
+}
+

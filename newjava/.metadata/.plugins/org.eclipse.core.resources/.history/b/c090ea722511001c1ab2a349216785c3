@@ -1,0 +1,13 @@
+package org.studyeasy;
+
+import org.studyeasy.laptop.Laptop;
+
+public class hello {
+
+	public static void main(String[] args) {
+		Laptop lap = new Laptop();
+		System.out.println(lap.getRam());
+
+	}
+
+}

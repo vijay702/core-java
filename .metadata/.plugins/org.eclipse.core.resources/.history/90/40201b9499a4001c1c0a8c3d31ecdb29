@@ -1,0 +1,43 @@
+package com.multithreading;
+
+import java.awt.print.Book;
+
+public class MultithreadingExample {
+	
+	
+	class Book{
+		void updateDb(){
+			
+			for(int i =1;i<=5;i++) {
+				
+				System.out.println("Updating DataBase");
+			}
+		}
+	}
+	
+	
+	
+	class Number {
+		
+		void print(){
+			
+			for(int i=1 ; i<=5;i++) {
+				System.out.println(i);
+			}
+		}
+	}
+	
+	
+	
+
+	public static void main(String[] args) {
+		
+		
+		
+		Book book = new Book();
+		
+		
+
+	}
+
+}

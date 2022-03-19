@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package org.studyeasy;
+
+/**
+ * @author ELCOT
+ *
+ */
+public class Hello {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	Car  car = new Car();
+	car.speed =1;
+	System.out.println(car.speed);
+
+	}
+
+}
