@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="org.studyeasy.testrun.teststatic"/>
     <fullyQualifiedTypeName name="org.studyeasy.demo.Outer"/>
     <fullyQualifiedTypeName name="org.studyeasy.blog.java"/>
@@ -14,4 +13,7 @@
     <fullyQualifiedTypeName name="com.multithreading.MultithreadingExample.book"/>
     <fullyQualifiedTypeName name="com.multithreading.MultithreadingExample.Num"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

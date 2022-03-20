@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FactorialNumber2 {
 
 	public static void main(String[] args) {
-		/// factorial of 171 is a infinity value ,,, infinity value starts from here 
+		
 		
 		double num;
 		double factorial =1;
